@@ -1,0 +1,3 @@
+/home/marsel/Polikek/programming/Hello_world/build/CMakeFiles/Hello_world.dir
+/home/marsel/Polikek/programming/Hello_world/build/CMakeFiles/edit_cache.dir
+/home/marsel/Polikek/programming/Hello_world/build/CMakeFiles/rebuild_cache.dir

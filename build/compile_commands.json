@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/marsel/Polikek/programming/Hello_world/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/Hello_world.dir/main.c.o -c /home/marsel/Polikek/programming/Hello_world/main.c",
+  "file": "/home/marsel/Polikek/programming/Hello_world/main.c"
+}
+]
