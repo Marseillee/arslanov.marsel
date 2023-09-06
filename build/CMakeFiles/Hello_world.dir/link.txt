@@ -1,1 +1,0 @@
-/usr/bin/gcc -g CMakeFiles/Hello_world.dir/main.c.o -o Hello_world 
